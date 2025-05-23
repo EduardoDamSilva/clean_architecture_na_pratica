@@ -1,5 +1,9 @@
 def main():
-    print("Hello from clean-architecture-na-pratica!")
+    pass
+
+
+def testeD():
+    pass
 
 
 if __name__ == "__main__":

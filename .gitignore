@@ -1,4 +1,6 @@
 **/__pycache__
 .pytest_cache
 .env
-.venv
+venv
+.ruff_cache
+ruff_cache
