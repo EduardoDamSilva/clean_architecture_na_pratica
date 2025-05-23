@@ -2,7 +2,7 @@ def main():
     pass
 
 
-def testeD():
+def teste():
     pass
 
 
